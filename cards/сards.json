@@ -1,124 +1,304 @@
 {
-    "cards": [
-      {
-        "id": "1",
-        "name": "Card 1"
-      },
-      {
-        "id": "2",
-        "name": "Card 2"
-      },
-      {
-        "id": "3",
-        "name": "Card 3"
-      },
-      {
-        "id": "4",
-        "name": "Card 4"
-      },
-      {
-        "id": "5",
-        "name": "Card 5"
-      },
-      {
-        "id": "6",
-        "name": "Card 6"
-      },
-      {
-        "id": "7",
-        "name": "Card 7"
-      },
-      {
-        "id": "8",
-        "name": "Card 8"
-      },
-      {
-        "id": "9",
-        "name": "Card 9"
-      },
-      {
-        "id": "10",
-        "name": "Card 10"
-      },
-      {
-        "id": "11",
-        "name": "Card 11"
-      },
-      {
-        "id": "12",
-        "name": "Card 12"
-      },
-      {
-        "id": "13",
-        "name": "Card 13"
-      },
-      {
-        "id": "14",
-        "name": "Card 14"
-      },
-      {
-        "id": "15",
-        "name": "Card 15"
-      },
-      {
-        "id": "16",
-        "name": "Card 16"
-      },
-      {
-        "id": "17",
-        "name": "Card 17"
-      },
-      {
-        "id": "18",
-        "name": "Card 18"
-      },
-      {
-        "id": "19",
-        "name": "Card 19"
-      },
-      {
-        "id": "20",
-        "name": "Card 20"
-      },
-      {
-        "id": "21",
-        "name": "Card 21"
-      },
-      {
-        "id": "22",
-        "name": "Card 22"
-      },
-      {
-        "id": "23",
-        "name": "Card 23"
-      },
-      {
-        "id": "24",
-        "name": "Card 24"
-      },
-      {
-        "id": "25",
-        "name": "Card 25"
-      },
-      {
-        "id": "26",
-        "name": "Card 26"
-      },
-      {
-        "id": "27",
-        "name": "Card 27"
-      },
-      {
-        "id": "28",
-        "name": "Card 28"
-      },
-      {
-        "id": "29",
-        "name": "Card 29"
-      },
-      {
-        "id": "30",
-        "name": "Card 30"
-      }
-    ]
-  }
+  "cards": [
+    {
+      "id": "1",
+      "name": "Air Jordan x Awake NY AIR SHIP PE SP",
+      "images": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/1",
+      "sex": "man",
+      "price": 100,
+      "discount": 10,
+      "description": "In 1984 Michael Jordan signed a 2,5 million dollar deal with Nike. However, Nike was not his first choice. MJ was actually more interested in signing a deal with Adidas or Converse, but neither one of the two very successful brands wanted to offer him a better deal.",
+      "new": true
+    },
+    {
+      "id": "2",
+      "name": "Nike P-6000 PRM",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/2.jpg",
+      "sex": "woman",
+      "price": 150,
+      "discount": 10,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "3",
+      "name": "Nike AIR FORCE 1 '07 LX",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/3.jpg",
+      "sex": "man",
+      "price": 120,
+      "discount": 15,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "4",
+      "name": "Air Jordan 3 Retro 'Green Glow'",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/4.jpg",
+      "sex": "woman",
+      "price": 180,
+      "discount": 20,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "5",
+      "name": "Nike AIR FORCE 1 '07 'Next Nature'",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/5.jpg",
+      "sex": "man",
+      "price": 110,
+      "discount": 25,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "6",
+      "name": "Card 6",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/6.jpg",
+      "sex": "woman",
+      "price": 160,
+      "discount": 30,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "7",
+      "name": "Card 7",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/7.jpg",
+      "sex": "man",
+      "price": 130,
+      "discount": 10,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "8",
+      "name": "Card 8",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/8.jpg",
+      "sex": "woman",
+      "price": 170,
+      "discount": 10,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "9",
+      "name": "Card 9",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/9.jpg",
+      "sex": "man",
+      "price": 140,
+      "discount": 15,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "10",
+      "name": "Card 10",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/10.jpg",
+      "sex": "woman",
+      "price": 190,
+      "discount": 20,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "11",
+      "name": "Card 11",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/11.jpg",
+      "sex": "man",
+      "price": 150,
+      "discount": 25,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "12",
+      "name": "Card 12",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/12.jpg",
+      "sex": "woman",
+      "price": 200,
+      "discount": 30,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "13",
+      "name": "Card 13",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/13.jpg",
+      "sex": "man",
+      "price": 160,
+      "discount": 10,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "14",
+      "name": "Card 14",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/14.jpg",
+      "sex": "woman",
+      "price": 210,
+      "discount": 10,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "15",
+      "name": "Card 15",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/15.jpg",
+      "sex": "man",
+      "price": 170,
+      "discount": 15,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "16",
+      "name": "Card 16",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/16.jpg",
+      "sex": "woman",
+      "price": 220,
+      "discount": 20,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "17",
+      "name": "Card 17",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/17.jpg",
+      "sex": "man",
+      "price": 180,
+      "discount": 25,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "18",
+      "name": "Card 18",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/18.jpg",
+      "sex": "woman",
+      "price": 230,
+      "discount": 30,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "19",
+      "name": "Card 19",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/19.jpg",
+      "sex": "man",
+      "price": 190,
+      "discount": 10,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "20",
+      "name": "Card 20",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/20.jpg",
+      "sex": "woman",
+      "price": 240,
+      "discount": 10,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "21",
+      "name": "Card 21",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/21.jpg",
+      "sex": "man",
+      "price": 200,
+      "discount": 15,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "22",
+      "name": "Card 22",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/22.jpg",
+      "sex": "woman",
+      "price": 250,
+      "discount": 20,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "23",
+      "name": "Card 23",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/23.jpg",
+      "sex": "man",
+      "price": 210,
+      "discount": 25,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "24",
+      "name": "Card 24",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/24.jpg",
+      "sex": "woman",
+      "price": 260,
+      "discount": 30,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "25",
+      "name": "Card 25",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/25.jpg",
+      "sex": "man",
+      "price": 220,
+      "discount": 10,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "26",
+      "name": "Card 26",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/26.jpg",
+      "sex": "woman",
+      "price": 270,
+      "discount": 10,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "27",
+      "name": "Card 27",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/27.jpg",
+      "sex": "man",
+      "price": 230,
+      "discount": 15,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "28",
+      "name": "Card 28",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/28.jpg",
+      "sex": "woman",
+      "price": 280,
+      "discount": 20,
+      "description": "",
+      "new": false
+    },
+    {
+      "id": "29",
+      "name": "Card 29",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/29.jpg",
+      "sex": "man",
+      "price": 240,
+      "discount": 25,
+      "description": "",
+      "new": true
+    },
+    {
+      "id": "30",
+      "name": "Card 30",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/30.jpg",
+      "sex": "woman",
+      "price": 290,
+      "discount": 30,
+      "description": "",
+      "new": false
+    }
+  ]
+}
