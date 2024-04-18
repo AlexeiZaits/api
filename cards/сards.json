@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Air Jordan x Awake NY AIR SHIP PE SP",
-      "images": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_1",
+      "images": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_1/1.jpg",
       "sex": "man",
       "price": 100,
       "discount": 10,
@@ -13,7 +13,7 @@
     {
       "id": "2",
       "name": "Nike P-6000 PRM",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_2",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_2/1.jpg",
       "sex": "man",
       "price": 150,
       "discount": 10,
@@ -23,7 +23,7 @@
     {
       "id": "3",
       "name": "Air Jordan 3 Retro 'Green Glow'",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_3",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_3/1.jpg",
       "sex": "man",
       "price": 120,
       "discount": 15,
@@ -33,7 +33,7 @@
     {
       "id": "4",
       "name": "Nike AIR FORCE 1 '07 LX",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_4",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_4/1.jpg",
       "sex": "man",
       "price": 180,
       "discount": 20,
@@ -43,7 +43,7 @@
     {
       "id": "5",
       "name": "Nike DUNK LOW RETRO PRM",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_5",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_5/1.jpg",
       "sex": "man",
       "price": 110,
       "discount": 25,
@@ -53,7 +53,7 @@
     {
       "id": "6",
       "name": "Card 6",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_6",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_6/1.jpg",
       "sex": "woman",
       "price": 160,
       "discount": 30,
@@ -63,7 +63,7 @@
     {
       "id": "7",
       "name": "Nike WMNS AIR MORE UPTEMPO",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_7",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_7/1.jpg",
       "sex": "woman",
       "price": 130,
       "discount": 10,
@@ -73,7 +73,7 @@
     {
       "id": "8",
       "name": "Nike WMNS CORTEZ",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_8",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_8/1.jpg",
       "sex": "woman",
       "price": 170,
       "discount": 10,
@@ -83,7 +83,7 @@
     {
       "id": "9",
       "name": "Nike WMNS UPTEMPO '96",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_9",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_9/1.jpg",
       "sex": "woman",
       "price": 140,
       "discount": 15,
@@ -93,7 +93,7 @@
     {
       "id": "10",
       "name": "Converse CHUCK 70 OX",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_10",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_10/1.jpg",
       "sex": "woman",
       "price": 190,
       "discount": 20,
@@ -103,7 +103,7 @@
     {
       "id": "11",
       "name": "Converse CHUCK 70 OX",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_11",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_11/1.jpg",
       "sex": "woman",
       "price": 150,
       "discount": 25,
@@ -113,7 +113,7 @@
     {
       "id": "12",
       "name": "Adidas Originals HANDBALL SPEZIAL",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_12",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_12/1.jpg",
       "sex": "man",
       "price": 200,
       "discount": 30,
@@ -123,7 +123,7 @@
     {
       "id": "13",
       "name": "Hoka One One BONDI 8 TS",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_13",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_13/1.jpg",
       "sex": "man",
       "price": 160,
       "discount": 10,
@@ -133,7 +133,7 @@
     {
       "id": "14",
       "name": "New Balance MR 530 PC",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_14",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_14/1.jpg",
       "sex": "man",
       "price": 210,
       "discount": 10,
@@ -143,7 +143,7 @@
     {
       "id": "15",
       "name": "Air Jordan TATUM 2 'Vortex'",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_15",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_15/1.jpg",
       "sex": "man",
       "price": 170,
       "discount": 15,
@@ -153,7 +153,7 @@
     {
       "id": "16",
       "name": "Karhu Legacy 96",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_16",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_16/1.jpg",
       "sex": "man",
       "price": 220,
       "discount": 20,
@@ -163,7 +163,7 @@
     {
       "id": "17",
       "name": "Saucony SHADOW 5000",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_17",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_17/1.jpg",
       "sex": "man",
       "price": 180,
       "discount": 25,
@@ -173,7 +173,7 @@
     {
       "id": "18",
       "name": "Karhu Legacy 96 'Flow State'",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_18",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_18/1.jpg",
       "sex": "man",
       "price": 230,
       "discount": 30,
@@ -183,7 +183,7 @@
     {
       "id": "19",
       "name": "Air Jordan LUKA 2",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_19",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_19/1.jpg",
       "sex": "man",
       "price": 190,
       "discount": 10,
@@ -193,7 +193,7 @@
     {
       "id": "20",
       "name": "Mizuno WAVE MUJIN 10",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_20",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_20/1.jpg",
       "sex": "man",
       "price": 240,
       "discount": 10,
@@ -203,7 +203,7 @@
     {
       "id": "21",
       "name": "Salomon ACS PRO DESERT",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_21",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_21/1.jpg",
       "sex": "woman",
       "price": 200,
       "discount": 15,
@@ -213,7 +213,7 @@
     {
       "id": "22",
       "name": "Adidas Originals WMNS HANDBALL SPEZIAL",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_22",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_22/1.jpg",
       "sex": "woman",
       "price": 250,
       "discount": 20,
@@ -223,7 +223,7 @@
     {
       "id": "23",
       "name": "Adidas Originals WMNS SL 72 OG",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_23",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_23/1.jpg",
       "sex": "woman",
       "price": 125,
       "discount": 25,
@@ -233,7 +233,7 @@
     {
       "id": "24",
       "name": "New Balance U 9060 SFB",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_24",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_24/1.jpg",
       "sex": "woman",
       "price": 110,
       "discount": 30,
@@ -243,7 +243,7 @@
     {
       "id": "25", 
       "name": "Asics GEL-KAYANO 14 'Imperfection'",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_25",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_25/1.jpg",
       "sex": "woman",
       "price": 125,
       "discount": 10,
@@ -253,7 +253,7 @@
     {
       "id": "26",
       "name": "Air Jordan WMNS 1 MID",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_26",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_26/1.jpg",
       "sex": "woman",
       "price": 130,
       "discount": 10,
@@ -263,7 +263,7 @@
     {
       "id": "27",
       "name": "Saucony GRID SHADOW 2 'MUSHROOM'",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_27",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_27/1.jpg",
       "sex": "woman",
       "price": 140,
       "discount": 15,
@@ -273,7 +273,7 @@
     {
       "id": "28",
       "name": "Converse CHUCK 70 HI",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_28",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_28/1.jpg",
       "sex": "woman",
       "price": 150,
       "discount": 20,
@@ -283,7 +283,7 @@
     {
       "id": "29",
       "name": "Converse ONE STAR ACADEMY PRO OX",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_29",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_29/1.jpg",
       "sex": "woman",
       "price": 115,
       "discount": 25,
@@ -293,7 +293,7 @@
     {
       "id": "30",
       "name": "Converse ONE STAR ACADEMY PRO OX",
-      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_30",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_30/1.jpg",
       "sex": "woman",
       "price": 130,
       "discount": 30,
