@@ -68,7 +68,7 @@
       "price": 130,
       "discount": 10,
       "description": "It's all about A-I-R. The Nike Air More Uptempo is the reissue of an original that has dominated for more than 20 years. With a design inspired by high-flying basketball style and 90s graffiti art. Air elements in the heel, forefoot and midfoot provide comfortable cushioning so you feel as good as you look.",
-      "new": true
+      "new": false
     },
     {
       "id": "8",
@@ -108,7 +108,7 @@
       "price": 150,
       "discount": 25,
       "description": "The Converse Chuck Taylor is one of the most famous sneakers ever made. Named after the basketball player, this shoe has become a staple in fashion and pop culture.",
-      "new": true
+      "new": false
     },
     {
       "id": "12",
@@ -128,7 +128,7 @@
       "price": 160,
       "discount": 10,
       "description": "Hoka One One Bondi - the kings of comfort! These shoes offer an unrivalled running experience with maximum cushioning and a springy sole. The lightweight design and breathable materials make them the ideal companion for long-distance runs. The innovative technology not only supports your performance, but is also easy on your joints.",
-      "new": true
+      "new": false
     },
     {
       "id": "14",
@@ -148,7 +148,7 @@
       "price": 170,
       "discount": 15,
       "description": "So you can give it your all right to the end. The Tatum 2 makes the game so easy that you still have energy at the end. Because little heavy rubber has been used, your feet feel as light as a feather. The full-length Nike Air Strobel element enables fast moves, while the frame and the supportive foam that moulds to your feet provide support.",
-      "new": true
+      "new": false
     },
     {
       "id": "16",
@@ -168,7 +168,7 @@
       "price": 180,
       "discount": 25,
       "description": "When this style made its debut in our running shoe collection in the 80s, the focus was on performance, but now it's all about looks and comfort. The Shadow 5000 has both in abundance. It's a breath of fresh air in your sneaker collection with trendy colours.",
-      "new": true
+      "new": false
     },
     {
       "id": "18",
@@ -188,7 +188,7 @@
       "price": 190,
       "discount": 10,
       "description": "The Air Jordan Luka - more than just shoes, a statement of victory. Named after the exceptional talent Luka Dončić, they reflect his dynamic style of play. The innovative cushioning and striking design give every step the power of a slam dunk. Experience ultimate comfort and style - inspired by a basketball phenomenon, for those who want to achieve great things.",
-      "new": true
+      "new": false
     },
     {
       "id": "20",
@@ -208,7 +208,7 @@
       "price": 200,
       "discount": 15,
       "description": "Salomon ACS Pro - A masterpiece of trail performance. The original technical shoe gets an innovative upgrade. The ACS Pro is equipped with the run-stabilising Agile Chassis™ system. This advanced technology enables unrivalled adaptability. The robust materials and ergonomic design guarantee stability and maximum comfort on demanding trails.",
-      "new": true
+      "new": false
     },
     {
       "id": "22",
@@ -228,7 +228,7 @@
       "price": 125,
       "discount": 25,
       "description": "The adidas Originals SL 72 was designed and launched on the occasion of the 1972 Olympic game in Munich. The SL 72 was not, like most Adidas shoes at that time, primarily developed for sports, but was intended to be a sports shoe for leisure. Nevertheless, the SL 72 has a reinforced heel cup and other elements of a running sneaker. ",
-      "new": true
+      "new": false
     },
     {
       "id": "24",
@@ -248,7 +248,7 @@
       "price": 125,
       "discount": 10,
       "description": "The GEL-KAYANO 14 trainers from the IMPERFECTION series are inspired by the idea of celebrating imperfection. The shoe's design features visible foam and cracked leather details reminiscent of ageing clay pots.",
-      "new": true
+      "new": false
     },
     {
       "id": "26",
@@ -268,7 +268,7 @@
       "price": 140,
       "discount": 15,
       "description": "A formative decade. The hero model Grid Shadow 2 came onto the market for the first time in 1997. This special edition presents a new sustainable material source: HyphaLite™ synthetic leather made from mushrooms and other materials. In keeping with our commitment to the future of running, we also use hemp underlays and linings made from recycled materials. Clever.",
-      "new": true
+      "new": false
     },
     {
       "id": "28",
@@ -288,7 +288,7 @@
       "price": 115,
       "discount": 25,
       "description": "The One Star is another classic style from Converse. This low top sneaker is easy to combine with outfits due to its various colorways and the simplistic design. ",
-      "new": true
+      "new": false
     },
     {
       "id": "30",
