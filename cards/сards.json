@@ -8,7 +8,7 @@
       "price": 100,
       "discount": 10,
       "description": "In 1984 Michael Jordan signed a 2,5 million dollar deal with Nike. However, Nike was not his first choice. MJ was actually more interested in signing a deal with Adidas or Converse, but neither one of the two very successful brands wanted to offer him a better deal.",
-      "new": true
+      "new": false
     },
     {
       "id": "2",
@@ -17,8 +17,8 @@
       "sex": "man",
       "price": 150,
       "discount": 10,
-      "description": "",
-      "new": false
+      "description": "The Nike P-6000 CNPT has the styling of a sneaker from the 00s. This sneaker looks like a retro runner but the Nike P-6000 is actually an all-new designed sneaker from 2019.",
+      "new": true
     },
     {
       "id": "3",
