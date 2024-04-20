@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Air Jordan x Awake NY AIR SHIP PE SP",
-      "images": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_1/1.jpg",
+      "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_1/1.jpg",
       "sex": "man",
       "price": 100,
       "discount": 10,
