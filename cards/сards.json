@@ -8,7 +8,7 @@
       "price": 100,
       "discount": 10,
       "description": "In 1984 Michael Jordan signed a 2,5 million dollar deal with Nike. However, Nike was not his first choice. MJ was actually more interested in signing a deal with Adidas or Converse, but neither one of the two very successful brands wanted to offer him a better deal.",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "2",
@@ -52,12 +52,12 @@
     },
     {
       "id": "6",
-      "name": "Card 6",
+      "name": "Nike WMNS DUNK LOW",
       "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_6/1.jpg",
       "sex": "woman",
       "price": 160,
       "discount": 30,
-      "description": "",
+      "description": "The Nike Dunk is one of a kind, sort of. In fact, it blends the best of two iconic Nike Basketball silhouettes: the Terminator and the Air Jordan 1. Designed by Peter Moore, the timeless Nike Dunk was originally released in 1985.",
       "isNew": false
     },
     {
@@ -108,7 +108,7 @@
       "price": 150,
       "discount": 25,
       "description": "The Converse Chuck Taylor is one of the most famous sneakers ever made. Named after the basketball player, this shoe has become a staple in fashion and pop culture.",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "12",
@@ -208,7 +208,7 @@
       "price": 200,
       "discount": 15,
       "description": "Salomon ACS Pro - A masterpiece of trail performance. The original technical shoe gets an innovative upgrade. The ACS Pro is equipped with the run-stabilising Agile Chassis™ system. This advanced technology enables unrivalled adaptability. The robust materials and ergonomic design guarantee stability and maximum comfort on demanding trails.",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "22",
@@ -218,7 +218,7 @@
       "price": 250,
       "discount": 20,
       "description": "The adidas Originals Handball Spezial was launched in 1979. The idea of the Handball Spezial was born from the idea to develop a shoe for the handball players.",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "23",
@@ -228,7 +228,7 @@
       "price": 125,
       "discount": 25,
       "description": "The adidas Originals SL 72 was designed and launched on the occasion of the 1972 Olympic game in Munich. The SL 72 was not, like most Adidas shoes at that time, primarily developed for sports, but was intended to be a sports shoe for leisure. Nevertheless, the SL 72 has a reinforced heel cup and other elements of a running sneaker. ",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "24",
