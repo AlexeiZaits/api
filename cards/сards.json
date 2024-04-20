@@ -8,7 +8,7 @@
       "price": 100,
       "discount": 10,
       "description": "In 1984 Michael Jordan signed a 2,5 million dollar deal with Nike. However, Nike was not his first choice. MJ was actually more interested in signing a deal with Adidas or Converse, but neither one of the two very successful brands wanted to offer him a better deal.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "price": 150,
       "discount": 10,
       "description": "The Nike P-6000 CNPT has the styling of a sneaker from the 00s. This sneaker looks like a retro runner but the Nike P-6000 is actually an all-new designed sneaker from 2019.",
-      "new": true
+      "isNew": true
     },
     {
       "id": "3",
@@ -28,7 +28,7 @@
       "price": 120,
       "discount": 15,
       "description": "The Air Jordan 3 is one of the most popular sneakers of all time and is Michael Jordan's third Signature Sneaker. During the Dunk Contest 1988, the sneaker caused a huge sensation when MJ jumped off the free-throw line and smashed the ball right into the basket.",
-      "new": true
+      "isNew": true
     },
     {
       "id": "4",
@@ -38,7 +38,7 @@
       "price": 180,
       "discount": 20,
       "description": "Textile upper with leather stitched overlays provides durability. Originally designed for performance hoops, the Nike Air cushioning adds all-day comfort. Low-cut silhouette adds a clean, streamlined look. Padded collar feels soft and comfortable.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "5",
@@ -48,7 +48,7 @@
       "price": 110,
       "discount": 25,
       "description": "The Nike Dunk is one of a kind, sort of. In fact, it blends the best of two iconic Nike Basketball silhouettes: the Terminator and the Air Jordan 1. Designed by Peter Moore, the timeless Nike Dunk was originally released in 1985.",
-      "new": true
+      "isNew": true
     },
     {
       "id": "6",
@@ -58,7 +58,7 @@
       "price": 160,
       "discount": 30,
       "description": "",
-      "new": false
+      "isNew": false
     },
     {
       "id": "7",
@@ -68,7 +68,7 @@
       "price": 130,
       "discount": 10,
       "description": "It's all about A-I-R. The Nike Air More Uptempo is the reissue of an original that has dominated for more than 20 years. With a design inspired by high-flying basketball style and 90s graffiti art. Air elements in the heel, forefoot and midfoot provide comfortable cushioning so you feel as good as you look.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "8",
@@ -78,7 +78,7 @@
       "price": 170,
       "discount": 10,
       "description": "The Nike Cortez was back in 1972 Bill Bowerman’s first masterpiece and the shoe for multiple top running-athletics at the most important competitions. Because of the outstanding damping lot of guys used the Cortez as a training shoe. But it did not take a long time, till the Cortez was established as a lifestyle shoe as well.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "9",
@@ -88,7 +88,7 @@
       "price": 140,
       "discount": 15,
       "description": "It's all about A-I-R. The Nike Air More Uptempo is the reissue of an original that has dominated for more than 20 years. With a design inspired by high-flying basketball style and 90s graffiti art. Air elements in the heel, forefoot and midfoot provide comfortable cushioning so you feel as good as you look.",
-      "new": true
+      "isNew": true
     },
     {
       "id": "10",
@@ -98,7 +98,7 @@
       "price": 190,
       "discount": 20,
       "description": "The Converse Chuck Taylor is one of the most famous sneakers ever made. Named after the basketball player, this shoe has become a staple in fashion and pop culture.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "11",
@@ -108,7 +108,7 @@
       "price": 150,
       "discount": 25,
       "description": "The Converse Chuck Taylor is one of the most famous sneakers ever made. Named after the basketball player, this shoe has become a staple in fashion and pop culture.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "12",
@@ -118,7 +118,7 @@
       "price": 200,
       "discount": 30,
       "description": "In 1979 it was the shoe of choice among professional handball players, today the classic is a celebrated streetwear favourite. This version comes with an upper made from soft nubuck suede. Of course, the soft natural rubber outsole is a must for a real vintage vibe.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "13",
@@ -128,7 +128,7 @@
       "price": 160,
       "discount": 10,
       "description": "Hoka One One Bondi - the kings of comfort! These shoes offer an unrivalled running experience with maximum cushioning and a springy sole. The lightweight design and breathable materials make them the ideal companion for long-distance runs. The innovative technology not only supports your performance, but is also easy on your joints.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "14",
@@ -138,7 +138,7 @@
       "price": 210,
       "discount": 10,
       "description": "The New Balance 530 - a tribute to timeless coolness and sporty elegance. This shoe combines vintage vibes with modern performance. Its eye-catching design and innovative cushioning make it an urban must-have. Whether you're conquering the streets or exploring the city, the New Balance 530 will accompany you in style and comfort. A step ahead in terms of fashion and functionality.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "15",
@@ -148,7 +148,7 @@
       "price": 170,
       "discount": 15,
       "description": "So you can give it your all right to the end. The Tatum 2 makes the game so easy that you still have energy at the end. Because little heavy rubber has been used, your feet feel as light as a feather. The full-length Nike Air Strobel element enables fast moves, while the frame and the supportive foam that moulds to your feet provide support.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "16",
@@ -158,7 +158,7 @@
       "price": 220,
       "discount": 20,
       "description": "Influence in sport means you are durable, memorable and measurable. In recognition of this heritage, Karhu brings back an iconic sneaker whose name says it all - the `Legacy 96`. This comfortable everyday shoe lives up to its name and embodies Karhu's legacy in the sports footwear industry.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "17",
@@ -168,7 +168,7 @@
       "price": 180,
       "discount": 25,
       "description": "When this style made its debut in our running shoe collection in the 80s, the focus was on performance, but now it's all about looks and comfort. The Shadow 5000 has both in abundance. It's a breath of fresh air in your sneaker collection with trendy colours.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "18",
@@ -178,7 +178,7 @@
       "price": 230,
       "discount": 30,
       "description": "Influence in sport means you are durable, memorable and measurable. In recognition of this heritage, Karhu brings back an iconic sneaker whose name says it all - the `Legacy 96`. This comfortable everyday shoe lives up to its name and embodies Karhu's legacy in the sports footwear industry.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "19",
@@ -188,7 +188,7 @@
       "price": 190,
       "discount": 10,
       "description": "The Air Jordan Luka - more than just shoes, a statement of victory. Named after the exceptional talent Luka Dončić, they reflect his dynamic style of play. The innovative cushioning and striking design give every step the power of a slam dunk. Experience ultimate comfort and style - inspired by a basketball phenomenon, for those who want to achieve great things.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "20",
@@ -198,7 +198,7 @@
       "price": 240,
       "discount": 10,
       "description": "Mizuno is a Japanese sporting goods manufacturer founded in 1906. More than 100 years later Mizuno manufactures equipment for almost every sport. As sneaker fans we are especially interested in their running silhouettes.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "21",
@@ -208,7 +208,7 @@
       "price": 200,
       "discount": 15,
       "description": "Salomon ACS Pro - A masterpiece of trail performance. The original technical shoe gets an innovative upgrade. The ACS Pro is equipped with the run-stabilising Agile Chassis™ system. This advanced technology enables unrivalled adaptability. The robust materials and ergonomic design guarantee stability and maximum comfort on demanding trails.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "22",
@@ -218,7 +218,7 @@
       "price": 250,
       "discount": 20,
       "description": "The adidas Originals Handball Spezial was launched in 1979. The idea of the Handball Spezial was born from the idea to develop a shoe for the handball players.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "23",
@@ -228,7 +228,7 @@
       "price": 125,
       "discount": 25,
       "description": "The adidas Originals SL 72 was designed and launched on the occasion of the 1972 Olympic game in Munich. The SL 72 was not, like most Adidas shoes at that time, primarily developed for sports, but was intended to be a sports shoe for leisure. Nevertheless, the SL 72 has a reinforced heel cup and other elements of a running sneaker. ",
-      "new": false
+      "isNew": false
     },
     {
       "id": "24",
@@ -238,7 +238,7 @@
       "price": 110,
       "discount": 30,
       "description": "The 9060 is a new expression of the refined style and innovation-led design that have made the 99X series home to some of the most iconic models in New Balance history.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "25", 
@@ -248,7 +248,7 @@
       "price": 125,
       "discount": 10,
       "description": "The GEL-KAYANO 14 trainers from the IMPERFECTION series are inspired by the idea of celebrating imperfection. The shoe's design features visible foam and cracked leather details reminiscent of ageing clay pots.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "26",
@@ -258,7 +258,7 @@
       "price": 130,
       "discount": 10,
       "description": "The Air Jordan 1 Mid presents comprehensive court style and high-quality comfort for a legendary look. The Air-Sole element provides cushioning on hardwood and the padded collar ensures a supportive feel.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "27",
@@ -268,7 +268,7 @@
       "price": 140,
       "discount": 15,
       "description": "A formative decade. The hero model Grid Shadow 2 came onto the market for the first time in 1997. This special edition presents a new sustainable material source: HyphaLite™ synthetic leather made from mushrooms and other materials. In keeping with our commitment to the future of running, we also use hemp underlays and linings made from recycled materials. Clever.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "28",
@@ -278,7 +278,7 @@
       "price": 150,
       "discount": 20,
       "description": "The Converse Chuck Taylor is one of the most famous sneakers ever made. Named after the basketball player, this shoe has become a staple in fashion and pop culture.",
-      "new": false
+      "isNew": false
     },
     {
       "id": "29",
@@ -288,7 +288,7 @@
       "price": 115,
       "discount": 25,
       "description": "The One Star is another classic style from Converse. This low top sneaker is easy to combine with outfits due to its various colorways and the simplistic design. ",
-      "new": false
+      "isNew": false
     },
     {
       "id": "30",
@@ -298,7 +298,7 @@
       "price": 130,
       "discount": 30,
       "description": "The One Star is another classic style from Converse. This low top sneaker is easy to combine with outfits due to its various colorways and the simplistic design. ",
-      "new": false
+      "isNew": false
     }
   ]
 }
