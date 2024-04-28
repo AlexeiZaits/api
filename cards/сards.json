@@ -6,7 +6,7 @@
       "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_1/1.jpg",
       "sex": "man",
       "price": 100,
-      "discount": 10,
+      "discount": 0,
       "description": "In 1984 Michael Jordan signed a 2,5 million dollar deal with Nike. However, Nike was not his first choice. MJ was actually more interested in signing a deal with Adidas or Converse, but neither one of the two very successful brands wanted to offer him a better deal.",
       "isNew": true
     },
@@ -16,7 +16,7 @@
       "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_2/1.jpg",
       "sex": "man",
       "price": 150,
-      "discount": 10,
+      "discount": 0,
       "description": "The Nike P-6000 CNPT has the styling of a sneaker from the 00s. This sneaker looks like a retro runner but the Nike P-6000 is actually an all-new designed sneaker from 2019.",
       "isNew": true
     },
@@ -26,7 +26,7 @@
       "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_3/1.jpg",
       "sex": "man",
       "price": 120,
-      "discount": 15,
+      "discount": 0,
       "description": "The Air Jordan 3 is one of the most popular sneakers of all time and is Michael Jordan's third Signature Sneaker. During the Dunk Contest 1988, the sneaker caused a huge sensation when MJ jumped off the free-throw line and smashed the ball right into the basket.",
       "isNew": true
     },
@@ -46,7 +46,7 @@
       "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_5/1.jpg",
       "sex": "man",
       "price": 110,
-      "discount": 25,
+      "discount": 0,
       "description": "The Nike Dunk is one of a kind, sort of. In fact, it blends the best of two iconic Nike Basketball silhouettes: the Terminator and the Air Jordan 1. Designed by Peter Moore, the timeless Nike Dunk was originally released in 1985.",
       "isNew": true
     },
@@ -86,7 +86,7 @@
       "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_9/1.jpg",
       "sex": "woman",
       "price": 140,
-      "discount": 15,
+      "discount": 0,
       "description": "It's all about A-I-R. The Nike Air More Uptempo is the reissue of an original that has dominated for more than 20 years. With a design inspired by high-flying basketball style and 90s graffiti art. Air elements in the heel, forefoot and midfoot provide comfortable cushioning so you feel as good as you look.",
       "isNew": true
     },
@@ -106,7 +106,7 @@
       "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_11/1.jpg",
       "sex": "woman",
       "price": 150,
-      "discount": 25,
+      "discount": 0,
       "description": "The Converse Chuck Taylor is one of the most famous sneakers ever made. Named after the basketball player, this shoe has become a staple in fashion and pop culture.",
       "isNew": true
     },
@@ -206,7 +206,7 @@
       "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_21/1.jpg",
       "sex": "woman",
       "price": 200,
-      "discount": 15,
+      "discount": 0,
       "description": "Salomon ACS Pro - A masterpiece of trail performance. The original technical shoe gets an innovative upgrade. The ACS Pro is equipped with the run-stabilising Agile Chassis™ system. This advanced technology enables unrivalled adaptability. The robust materials and ergonomic design guarantee stability and maximum comfort on demanding trails.",
       "isNew": true
     },
@@ -216,7 +216,7 @@
       "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_22/1.jpg",
       "sex": "woman",
       "price": 250,
-      "discount": 20,
+      "discount": 0,
       "description": "The adidas Originals Handball Spezial was launched in 1979. The idea of the Handball Spezial was born from the idea to develop a shoe for the handball players.",
       "isNew": true
     },
@@ -226,7 +226,7 @@
       "image": "https://raw.githubusercontent.com/AlexeiZaits/api/main/cards/images/card_23/1.jpg",
       "sex": "woman",
       "price": 125,
-      "discount": 25,
+      "discount": 0,
       "description": "The adidas Originals SL 72 was designed and launched on the occasion of the 1972 Olympic game in Munich. The SL 72 was not, like most Adidas shoes at that time, primarily developed for sports, but was intended to be a sports shoe for leisure. Nevertheless, the SL 72 has a reinforced heel cup and other elements of a running sneaker. ",
       "isNew": true
     },
